@@ -75,7 +75,7 @@ body {
 }
 
 body {
-    /* background: #111111; */
+    background: #111111;
     font-family: "lora-regular", serif;
     font-size: 1.7rem;
     font-style: normal;
@@ -2437,6 +2437,7 @@ html.no-csstransitions .home-content__main {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    font-weight: bold;
 }
 
 .stats h5 {
@@ -3648,7 +3649,11 @@ footer .row {
     border: none;
     /* width: 150px; */
     height: 150px;
+<<<<<<< HEAD
     background: url("../images/logo.jpg") no-repeat center;
+=======
+    background: url("../../images/logo.jpg") no-repeat center;
+>>>>>>> d3af53d9cb01fcb4f7bef0387f48a407eca92a6b
     background-size: auto 450px;
     font: 0/0 a;
     text-shadow: none;
@@ -3961,7 +3966,7 @@ a:visited.accordion-toggle {
     padding: 84px 0 82px 0;
     border-radius: 120px;
     color: #ffffff;
-    font-family: 'montserrat-regular';
+    font-family: 'montserrat-regular', sans-serif;
     font-size: 16px;
     -moz-border-radius: 120px;
     -webkit-border-radius: 120px;
@@ -4157,18 +4162,3 @@ a:visited.accordion-toggle {
 .de_tab .navigation_arrow {
     text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  

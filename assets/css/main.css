@@ -3649,11 +3649,7 @@ footer .row {
     border: none;
     /* width: 150px; */
     height: 150px;
-<<<<<<< HEAD
-    background: url("../images/logo.jpg") no-repeat center;
-=======
     background: url("../../images/logo.jpg") no-repeat center;
->>>>>>> d3af53d9cb01fcb4f7bef0387f48a407eca92a6b
     background-size: auto 450px;
     font: 0/0 a;
     text-shadow: none;
